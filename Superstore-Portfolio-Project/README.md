@@ -22,5 +22,10 @@ It was completed using **Excel** for dashboard visuals and **SQLite (DB Browser)
 - The West region had the top sales.
 - the top 5 customers in each region make up 60% of the total sales.
 
+## Links
+![Excel Dashboard](superstore-portfolio-project/exceldashboard.png)
+![SQL Results](screenshots/)
+
 ## Next Steps
+
 - Build a **Tableau dashboard** from the same dataset.  
