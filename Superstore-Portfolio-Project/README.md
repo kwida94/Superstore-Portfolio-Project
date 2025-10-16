@@ -23,9 +23,10 @@ It was completed using **Excel** for dashboard visuals and **SQLite (DB Browser)
 - the top 5 customers in each region make up 60% of the total sales.
 
 ## Links
-![Excel Dashboard](superstore-portfolio-project/exceldashboard.png)
-![SQL Results](screenshots/)
+![Excel Dashboard](Superstore-Portfolio-Project/ExcelDashboard.png)
+![SQL Results](Superstore-Portfolio-Project/screenshots/)
 
 ## Next Steps
 
 - Build a **Tableau dashboard** from the same dataset.  
+
