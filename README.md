@@ -24,7 +24,7 @@ It was completed using **Excel** for dashboard visuals and **SQLite (DB Browser)
 
 ## Links
 ![Excel Dashboard](Superstore-Portfolio-Project/ExcelDashboard.png)
-![SQL Results](Superstore-Portfolio-Project/screenshots/)
+![SQL Results](Screenshots/)
 
 ## Next Steps
 
