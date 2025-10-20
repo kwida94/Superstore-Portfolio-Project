@@ -38,7 +38,10 @@ It was completed using **Excel** for dashboard visuals and **SQLite (DB Browser)
 
 ### Author
 **Karl Wida**  
-Data Analytics Portfolio Project  
+Data Analytics Portfolio Project
+[Linkedin](www.linkedin.com/in/karl-wida-b65280138)
+
+
 
  
 
