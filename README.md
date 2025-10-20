@@ -33,7 +33,7 @@ It was completed using **Excel** for dashboard visuals and **SQLite (DB Browser)
 
 ### Tableau Dashboard
 ![Tableau Dashboard](Screenshots/Tabeau-Superstore-Dashboard.png)
-![View the live interactive version here](https://public.tableau.com/app/profile/karl.wida/viz/SuperstorePortfolio_17606434989400/Dashboard1?publish=yes)
+[View the live interactive version here](https://public.tableau.com/app/profile/karl.wida/viz/SuperstorePortfolio_17606434989400/Dashboard1?publish=yes)
 
  
 
